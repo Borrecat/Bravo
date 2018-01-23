@@ -1,0 +1,21 @@
+STRINGER (Code Bravo)
+
+A game based on stringers.
+Inspired by "A Shot in the Dark".
+
+HOW TO PLAY:
+You will be presented with multiple choices.
+
+EXAMPLE:
+1. Start
+2. Help
+
+In order to choose an option, type the number and hit enter.
+
+The rewards in game are randomized and the time limit is 1 year.
+Every night you will be presented with 3 situations.
+Depending on which you choose depends on reward.
+Some nights will be dry but some nights will be rich.
+The game lasts for 365 nights (1 year) and at the end you unlock a new mode.
+
+Good luck.

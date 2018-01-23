@@ -17,12 +17,10 @@ goto start
 cls
 title STRINGER - Main Menu
 echo STRINGER
-echo Made by Nick
+echo Made by Borrecat
 echo.
-echo TEST MODE
-echo ASSETS:
-echo %score% score
-ehco %gameposition% pos
-echo %day% day
-echo %hits%
+echo.
+echo.
+echo 1. Start
+echo 2. Exit
 pause
